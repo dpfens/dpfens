@@ -1,16 +1,17 @@
-## Hi there 👋
+# Doug Fenstermacher
+Outside of work, I'm drawn to glue code and novel territory, which is how I wound up in graph theory, WebGPU, and WebAssembly.
 
-<!--
-**dpfens/dpfens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [Personal site](https://dougfenstermacher.com)
+* [LLNL profile](https://people.llnl.gov/fenstermache1)
 
-Here are some ideas to get you started:
+## Sample Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DoGPack](https://github.com/dpfens/dogpack): Line drawing and screentone stylization for images using Difference-of-Gaussians on WebGL/WebGPU ([demo](https://dougfenstermacher.com/dogpack/))
+- [petgraph-wasm](https://github.com/dpfens/petgraph-wasm): Rust's `petgraph` library ported and extended for JavaScript/TypeScript via WebAssembly
+- [Epochron](https://github.com/dpfens/stopwatch): A local-first multi-stopwatch for coaches and athletes ([live app](https://stopwatch.dougfenstermacher.com))
+
+## Tech
+
+* Front-end: TypeScript, Angular, WebGPU, and WebAssembly 
+* Back-end: Python, Java, Rust, and TypeScript 
+* Persistence: SQL, OpenSearch, and Neo4J 
